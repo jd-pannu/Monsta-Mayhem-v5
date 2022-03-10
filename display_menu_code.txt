@@ -1,0 +1,14 @@
+    if x >= 195 and x <= 395 and y >= 250 and y <= 315 and instruction == 1:
+        instruction_display()
+        if x > 2 and x <= 50 and y >= 465 and y < 499:
+            box_color1 = box2
+        else:
+            box_color1 = box1
+    else:
+        main_menu()
+        if instruction == 1:
+            instruction_display()
+            if x > 2 and x <= 50 and y >= 465 and y < 499:
+                box_color1 = box2
+            else:
+                box_color1 = box1

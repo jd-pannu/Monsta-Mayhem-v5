@@ -1,0 +1,5 @@
+Source: 
+Youtube channel "KidsCanCode" Platformer series
+-learned to organize codes cleanly, how to implement realistic movement using physics, and clean animations.
+https://www.youtube.com/playlist?list=PLsk-HSGFjnaG-BwZkuAOcVwWldfCLu1pq
+Jumping ideas: https://stackoverflow.com/questions/20610845/pygame-can-someone-help-me-implement-double-jumping
